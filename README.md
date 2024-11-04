@@ -6,4 +6,4 @@ This is an in game picture:
 
   Download link:https://modrinth.com/resourcepack/purple-acacia
 
-If you have any issues or bugs with my texture pack please leave your issue in the Issues tab
+If you have any issues with my texture pack please leave your issue in the Issues tab
